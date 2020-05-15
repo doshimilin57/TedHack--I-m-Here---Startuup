@@ -22,7 +22,7 @@
   "homepage": "https://github.com/fsasieta/tadhack_2016#readme",
   "dependencies": {
     "express": "^4.14.0",
-	"mime": "~1.2.7"
+	"mime": "~2.4.5"
   },
   "engines": {
 	"node": "6.2.0"
